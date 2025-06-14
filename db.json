@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "João Silva",
+      "phone": "(11) 99999-9999",
+      "email": "joao@gmail.com"
+    },
+    {
+      "id": "be33",
+      "name": "carlos",
+      "phone": "(69) 99999-9999",
+      "email": "carlos@email.com"
+    }
+  ]
+}
