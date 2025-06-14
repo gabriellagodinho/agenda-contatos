@@ -139,4 +139,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/gabriellagodinho)
+Desenvolvido por [Gabriella Godinho](https://github.com/gabriellagodinho)
