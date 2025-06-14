@@ -2,8 +2,6 @@
 
 Uma aplicação web moderna para gerenciamento de contatos, construída com React e JSON Server.
 
-![Agenda de Contatos](https://i.imgur.com/example.png)
-
 ## 🌟 Características
 
 - ✅ Interface moderna e responsiva
